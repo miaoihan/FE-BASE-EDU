@@ -15,4 +15,5 @@ HTML 指的是超文本标记语言 (Hyper Text Markup Language)
 - css教程http://www.w3school.com.cn/css/index.asp
 
 ## 作业
+- 安装 Visual Studio Code 编辑器
 - 将课上的代码自己实现一遍
